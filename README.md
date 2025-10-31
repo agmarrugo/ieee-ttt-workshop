@@ -2,7 +2,7 @@
 
 Repository for the 3D vision fundamentals workshop @ [IEEE Tropic Topic Tour 2025](https://ieee.org.co/event/tropic-topic-tour-encuentro-de-ramas-del-caribe-colombiano-ttt/)
 
-*STSIVA Workshop*
+*IEEE Tropic Topic Tour Workshop*
 
 **Speaker:**    
 Andrés G. Marrugo, PhD -     [@agmarrugo](https://github.com/agmarrugo)     
