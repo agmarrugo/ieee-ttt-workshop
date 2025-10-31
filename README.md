@@ -1,11 +1,10 @@
 # 3D active vision fundamentals workshop 
 
-Repository for the 3D vision fundamentals workshop @ [STSIVA 2021](https://info.uan.edu.co/stsiva2021-english)
+Repository for the 3D vision fundamentals workshop @ [IEEE Tropic Topic Tour 2025](https://ieee.org.co/event/tropic-topic-tour-encuentro-de-ramas-del-caribe-colombiano-ttt/)
 
 *STSIVA Workshop*
 
-**Speakers:**    
-Jhacson Meza - [@jhacsonmeza](https://github.com/jhacsonmeza)    
+**Speaker:**    
 Andrés G. Marrugo, PhD -     [@agmarrugo](https://github.com/agmarrugo)     
 Universidad Tecnológica de Bolívar 
 
