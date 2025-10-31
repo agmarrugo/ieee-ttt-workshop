@@ -14,7 +14,8 @@ Here you will find the slides and three jupyter notebooks for the workshop. Enjo
 
 ![image](https://user-images.githubusercontent.com/1587408/133839294-580569f4-ee85-46d6-9e1d-2c2fcf74d8ee.png)
 
-- [Notebook](https://github.com/opi-lab/stsiva-workshop/blob/main/notebooks/stsiva_workshop_notebook01.ipynb)
+- [Notebook](https://github.com/agmarrugo/ieee-ttt-workshop/blob/main/notebooks/ieee_ttt_workshop_notebook01.ipynb)
+
 
 ### Example 2: camera calibration
 
